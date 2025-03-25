@@ -1,5 +1,3 @@
-# Label-Prediction-Using-Machine-Learning
-🚀 Stack Overflow Label Prediction Using ML – A machine learning model that predicts relevant tags for Stack Overflow questions using Logistic Regression with OneVsRest Classifier. It preprocesses text with NLTK, NumPy, Pandas, improving accuracy.
 # 🚀 Label Prediction Using Machine Learning  
 
 ## 📌 Overview  
@@ -23,16 +21,11 @@ This project uses **Machine Learning (ML) and Natural Language Processing (NLP)*
 📂 Label-Prediction-Using-Machine-Learning/
 │── 📄 README.md          # Project documentation
 │── 📄 LICENSE            # MIT License
-│── 📄 .gitignore         # Ignore unnecessary files
 │── 📄 requirements.txt   # Python dependencies
 │── 📂 data/              # Store datasets (not included in repo)
 │   ├── download_data.txt # Instructions to download dataset
 │── 📂 notebooks/         # Store Jupyter Notebooks
 │   ├── StackOverflow_Prediction.ipynb  # Main notebook
-│── 📂 scripts/           # Store Python scripts
-│   ├── preprocess.py     # Data cleaning & preprocessing
-│   ├── train.py          # Model training
-│   ├── predict.py        # Prediction script
 ```
 
 ---  
@@ -60,8 +53,8 @@ jupyter notebook
 
 ## 📊 Dataset  
 Download the dataset from these links:  
-- **Train Dataset:** [Google Drive Link](https://drive.google.com/)  
-- **Test Dataset:** [Google Drive Link](https://drive.google.com/)  
+- **Train Dataset:** [Google Drive Link](https://drive.google.com/file/d/1c3I_5A2VXfR418p8Fc2dpn9oY_x5XAyP/view?usp=drive_link)  
+- **Test Dataset:** [Google Drive Link](https://drive.google.com/file/d/1GvvPEIk8oaHs2pd853TLn7CMchqlL_3l/view?usp=drive_link)  
 
 ---  
 
@@ -90,6 +83,5 @@ This project is licensed under the **MIT License** – see the [LICENSE](LICENSE
 
 ## 👨‍💻 Author  
 Developed by **Badarinath Sai Balaji**  
-🔗 **Portfolio:** [your-portfolio-link]  
-🐦 **Twitter:** [@your-handle](https://twitter.com/)  
-📧 **Email:** your-email@example.com  
+🔗 **LinkedIn:** https://www.linkedin.com/in/badarinathsaibalaji/  
+📧 **Email:** badarinath15122001@gmail.com  
