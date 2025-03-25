@@ -1,0 +1,7 @@
+Download the dataset from these links:
+- Train Dataset: https://drive.google.com/file/d/1c3I_5A2VXfR418p8Fc2dpn9oY_x5XAyP/view?usp=drive_link
+- Test Dataset: https://drive.google.com/file/d/1GvvPEIk8oaHs2pd853TLn7CMchqlL_3l/view?usp=drive_link
+
+To download the dataset, run the following command:
+wget "https://drive.google.com/file/d/1c3I_5A2VXfR418p8Fc2dpn9oY_x5XAyP/view?usp=drive_link" -O data/train.zip
+wget "https://drive.google.com/file/d/1GvvPEIk8oaHs2pd853TLn7CMchqlL_3l/view?usp=drive_link" -O data/test.zip
